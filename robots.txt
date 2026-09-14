@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mtahbib.github.io/sitemap.xml
+Sitemap: https://www.tahbibmanzoor.com/sitemap.xml
