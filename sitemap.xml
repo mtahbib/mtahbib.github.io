@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.tahbibmanzoor.com/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tahbibmanzoor.com/projects/ns.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tahbibmanzoor.com/projects/scantracer.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tahbibmanzoor.com/projects/threatclassifier.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tahbibmanzoor.com/projects/discord.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tahbibmanzoor.com/projects/doctor.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tahbibmanzoor.com/projects/dbms.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tahbibmanzoor.com/projects/gan.html</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
 </urlset>
